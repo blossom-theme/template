@@ -4,10 +4,6 @@
 to be alive<br>  
 beneath cherry blossoms.</i></p>
 
-### Credits
-
-  - Credits
-
 ### Screenshot
 
 Screenshot
@@ -19,3 +15,7 @@ How to install & details
 ### Usage
 
 If needed how to use
+
+### Credits
+
+  - Credits
