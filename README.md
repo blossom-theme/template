@@ -1,21 +1,21 @@
-# THEME NAME
+<h1 align="center">🌸Blossom🌸</h1>
+<p align="center">for (application)</p>
+<p align="center"><i>What a strange thing!<br>  
+to be alive<br>  
+beneath cherry blossoms.</i></p>
 
-> What a strange thing!  
-to be alive  
-beneath cherry blossoms.
-
-#### Credits
+### Credits
 
   - Credits
 
-#### Screenshot
+### Screenshot
 
 Screenshot
 
-#### Install
+### Install
 
 How to install & details
 
-#### Usage
+### Usage
 
 If needed how to use
