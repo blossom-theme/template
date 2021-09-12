@@ -8,8 +8,6 @@ beneath cherry blossoms.
 
   - Credits
 
-<br>
-
 #### Screenshot
 
 Screenshot
